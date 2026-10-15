@@ -1,2 +1,2 @@
-print("hello world")
+print("LOSER GERMIN OKOLOLOLOLOLOLOLOOLLOLOLO")
 print(1==1)
